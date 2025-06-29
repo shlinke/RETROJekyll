@@ -1,4 +1,7 @@
 ---
+titke: Home
 ---
 
-# tonic-starter
+# RETROjekyll
+
+**RETROjekyll is a Windows 98 themed jekyll theme.
