@@ -2,6 +2,6 @@
 titke: Home
 ---
 
-# RETROjekyll
+# shleek
 
-**RETROjekyll is a Windows 98 themed jekyll theme.
+shleek is a clean and sleek Jekyll theme designed for simple websites.

@@ -1,5 +1,5 @@
-title: RETROjekyll
-description: "RETROjekyll is a Windows 98 themed jekyll theme."
+title: shleek
+description: "'shleek' is a clean and sleek Jekyll theme designed for simple websites"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
